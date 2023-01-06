@@ -11,8 +11,9 @@ Quaisquer sugestões e contribuições são bem-vindas.
 
 # Como usar isso?
 
-chmod +u grafana.sh
-sudo ./grafana.sh
+* chmod +u grafana.sh
+
+* sudo ./grafana.sh
 
 ## Instalação completa
 
