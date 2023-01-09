@@ -11,7 +11,7 @@ Quaisquer sugestões e contribuições são bem-vindas.
 
 # Como usar isso?
 
-* chmod +u grafana.sh
+* chmod +x grafana.sh
 
 * sudo ./grafana.sh
 
